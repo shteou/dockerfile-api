@@ -1,0 +1,5 @@
+build/
+dist/
+dockerfile_api.egg-info/
+__pycache__/
+venv/
